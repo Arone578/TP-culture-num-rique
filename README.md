@@ -1,5 +1,11 @@
 # TP Culture Numérique – AlgoBox et GitHub
 
+## Groupe
+Projet réalisé par :
+- Arone Eddahbi Watel
+- Alexandre Lerner 
+- Arnaud Mouradian
+
 ## Description
 Projet réalisé en groupe dans le cadre d’un TP de culture numérique.
 L’objectif de ce travail est de découvrir la programmation avec AlgoBox
